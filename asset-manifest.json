@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8ad0d353.css",
-    "main.js": "/portfolio/static/js/main.46dbdb36.js",
+    "main.css": "/portfolio/static/css/main.a27897d5.css",
+    "main.js": "/portfolio/static/js/main.097b7afa.js",
     "static/media/about-bg.png": "/portfolio/static/media/about-bg.71c6d39011223ac43b53.png",
     "static/media/cv-kael.pdf": "/portfolio/static/media/cv-kael.125ade6954d9e3404614.pdf",
+    "static/media/kael.png": "/portfolio/static/media/kael.b8e628b4dfb3825fc70d.png",
     "static/media/wp.png": "/portfolio/static/media/wp.709a24d0d9031a20e5bc.png",
     "static/media/home-bg.png": "/portfolio/static/media/home-bg.f10fa48385814c211eba.png",
     "static/media/me.png": "/portfolio/static/media/me.304cf4b5b50e44d8d5d2.png",
@@ -14,11 +15,11 @@
     "static/media/html.png": "/portfolio/static/media/html.07c642fbe973e4a6442f.png",
     "static/media/photoshop.png": "/portfolio/static/media/photoshop.77b4e5ecc7db8c0810b4.png",
     "index.html": "/portfolio/index.html",
-    "main.8ad0d353.css.map": "/portfolio/static/css/main.8ad0d353.css.map",
-    "main.46dbdb36.js.map": "/portfolio/static/js/main.46dbdb36.js.map"
+    "main.a27897d5.css.map": "/portfolio/static/css/main.a27897d5.css.map",
+    "main.097b7afa.js.map": "/portfolio/static/js/main.097b7afa.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ad0d353.css",
-    "static/js/main.46dbdb36.js"
+    "static/css/main.a27897d5.css",
+    "static/js/main.097b7afa.js"
   ]
 }
