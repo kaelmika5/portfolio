@@ -4,9 +4,10 @@ body {
 }
 h1 {
     font-weight: 700;
-    font-size: 60px;
+    font-size: 50px;
     margin-bottom: 50px;
 }
+
 section {
     min-height: 100vh;
     background-size: contain;
@@ -52,7 +53,7 @@ textarea {
 .btn-custom:hover {
     background: linear-gradient(107deg, #4c50eb 24.43%, #96a4be 70%);
     transition: all ease-in .2s;
-    color: #0f103f;
+    color: #fff;
     padding: 10px 50px;
 }
 *::-webkit-scrollbar-track

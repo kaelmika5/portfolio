@@ -44,6 +44,14 @@
     padding: 0;
     transform: rotate(-20deg);
 }
+.me-img {
+    width: 80%;
+}
+#skills .row,
+#home .row {
+    align-items: center;
+}
+
 
 /*about*/
 .about-content {
@@ -95,6 +103,12 @@
 }
 #skills, #about {
     padding-top: 80px;
+}
+#skills img {
+    transition: all ease .5s;
+}
+#skills img:not(:hover) {
+    filter: saturate(0.5);
 }
 
 
